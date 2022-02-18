@@ -24,7 +24,6 @@ dependencies {
 	providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
 	implementation("com.qcloud:cos_api:5.6.54")
 	implementation("commons-io:commons-io:2.11.0")
-	implementation("org.springframework.boot:spring-boot-starter-jdbc:2.5.4")
 	implementation("mysql:mysql-connector-java")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("com.qcloud:cos_api:5.6.54")
